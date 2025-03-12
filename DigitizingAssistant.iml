@@ -11,7 +11,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="file://$MODULE_DIR$/../../SimpleVideoEditor/out" />
+          <root url="file://$USER_HOME$/SimpleVideoEditor/out" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -21,11 +21,13 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../SimpleVideoEditor/out/artifacts/SimpleVideoNLE_jar/SimpleVideoNLE.jar!/" />
+          <root url="jar://$USER_HOME$/SimpleVideoEditor/out/artifacts/SimpleVideoNLE_jar/SimpleVideoNLE.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="bytedeco.javacv" level="project" />
+    <orderEntry type="library" name="bytedeco.ffmpeg" level="project" />
   </component>
 </module>
